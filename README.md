@@ -16,6 +16,7 @@ This repository features a curated collection of nearly all the projects submitt
 
 Explore these inspiring projects and discover the full potential of the Google Gemini API.
 
+**Note:** In this README, we provide a selection of projects. For the full list of projects and their detailed information, please refer to the `projects_data.csv` file available in the repository.
 
 | Project Name | Description | By and Location |
 |--------------|-------------|-----------------|
