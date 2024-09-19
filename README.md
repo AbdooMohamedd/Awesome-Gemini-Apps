@@ -18,6 +18,10 @@ Explore these inspiring projects and discover the full potential of the Google G
 
 **Note:** In this README, we provide a selection of projects. For the full list of projects and their detailed information, please refer to the `projects_data.csv` file available in the repository.
 
+**Contributor's Note:** If you're the creator of any of the applications listed here, feel free to make a contribution to this repository to include your GitHub account for proper credit.
+
+
+
 | Project Name | Description | By and Location |
 |--------------|-------------|-----------------|
 | [1PUL](https://www.youtube.com/watch?v=dvV03UxqIOk) | Flutter web app that tracks and inventories items using camera frames and Gemini API. | Brian Herbert, United States |
