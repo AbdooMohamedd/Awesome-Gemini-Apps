@@ -312,3 +312,11 @@ Explore these inspiring projects and discover the full potential of the Google G
 | [Zentale](https://www.youtube.com/watch?v=PvRgsWYCQss) | Converts toy photos into educational stories using AI. | Dragos Georgian Ivanov, Romania | [Link](https://ai.google.dev/competition/projects/zentale) |
 | [Zephyr](https://www.youtube.com/watch?v=pFjwcvyvKPw) | Python API for Unreal Engine to create and modify game environments. | Zephyr, United States | [Link](https://ai.google.dev/competition/projects/zephyr) |
 | [Zeta Comic Generator](https://www.youtube.com/watch?v=eNkLVbxTQx8) | Generates comic strips from premises using AI for scriptwriting and image rendering. | GreenZeta, United States | [Link](https://ai.google.dev/competition/projects/zeta-comic-generator) |
+
+
+
+# Explore More Projects
+These examples showcase just a handful of the incredible projects you can find in our dataset. To see all the projects, check out the complete list in the [projects_data.csv](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps/blob/main/Projects_Data.csv) file linked above.
+
+**Thank You!**  
+We hope you find inspiration and excitement in these innovative applications powered by the Gemini API! 😊 If you enjoyed this collection, please consider giving us a star ⭐ on GitHub. Your support means a lot and helps us keep bringing you the best in Gemini-powered projects. Thank you! 🙌
