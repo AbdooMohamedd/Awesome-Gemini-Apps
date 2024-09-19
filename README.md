@@ -4,7 +4,7 @@
 
 ## What is this repository?
 
-This repository features a curated collection of nearly all the projects submitted to the Google Gemini API competition. Each project entry includes:
+This repository features a curated collection of nearly all the projects submitted to the Google Gemini API competition (more than 2800 projects). Each project entry includes:
 
 - **Project Name**
 - **Subtitle** (brief description)
@@ -16,7 +16,7 @@ This repository features a curated collection of nearly all the projects submitt
 
 Explore these inspiring projects and discover the full potential of the Google Gemini API.
 
-**Note:** In this README, we provide a selection of projects. For the full list of projects and their detailed information, please refer to the `projects_data.csv` file available in the repository.
+**Note:** In this README, we provide a selection of projects. For the full list of projects (more than 2800 projects) and their detailed information, please refer to the `projects_data.csv` file available in the repository.
 
 **Contributor's Note:** If you're the creator of any of the applications listed here, feel free to make a contribution to this repository to include your GitHub account for proper credit.
 
