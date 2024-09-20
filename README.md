@@ -4,7 +4,7 @@
 
 ## What is this repository?
 
-This repository features a curated collection of nearly all the projects submitted to the Google (Gemini API competition)[https://ai.google.dev/competition/] (more than 2800 projects). Each project entry includes:
+This repository features a curated collection of nearly all the projects submitted to the Google [Gemini API competition](https://ai.google.dev/competition/) (more than 2800 projects). Each project entry includes:
 
 - **Project Name**
 - **Subtitle** (brief description)
