@@ -19,12 +19,10 @@ def setup_driver():
 
 def start_voting(driver):
     try:
-        # Open the webpage
         driver.get('https://ai.google.dev/competition/vote')
 
         time.sleep(2)
 
-        # Click the "Start Voting" button only once
         start_button = driver.find_element(By.CLASS_NAME, 'gemini-start-button')
         ActionChains(driver).move_to_element(start_button).click(start_button).perform()
 
