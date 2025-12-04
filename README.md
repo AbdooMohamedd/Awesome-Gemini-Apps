@@ -308,7 +308,7 @@ Explore these inspiring projects and discover the full potential of the Google G
 | [Zentale](https://www.youtube.com/watch?v=PvRgsWYCQss) | Converts toy photos into educational stories using AI. | Dragos Georgian Ivanov, Romania | [Link](https://ai.google.dev/competition/projects/zentale) |
 | [Zephyr](https://www.youtube.com/watch?v=pFjwcvyvKPw) | Python API for Unreal Engine to create and modify game environments. | Zephyr, United States | [Link](https://ai.google.dev/competition/projects/zephyr) |
 | [Zeta Comic Generator](https://www.youtube.com/watch?v=eNkLVbxTQx8) | Generates comic strips from premises using AI for scriptwriting and image rendering. | GreenZeta, United States | [Link](https://ai.google.dev/competition/projects/zeta-comic-generator) |
-
+[Trading Card Price Tracker](https://github.com/jbright471/Trading-Card-Price-Tracker) - A human-in-the-loop price tracker using Google Antigravity and Scryfall.
 
 
 # Explore More Projects
